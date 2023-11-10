@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shashank Kumar Srivastava</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="right">Results-driven aspiring engineer with a strong passion for software development always ready to take up challenges and flexible with
+tech stack who keeps on learning new skills with time. Seeking a challenging opportunity to leverage my skills in Python, JavaScript (JS), React.js, HTML/CSS, C++, Flutter, and my ability to implement the full software development life cycle (SDLC) to contribute to cutting- edge projects.</h3>
 <img align='right' alt='coding' width='200' src="https://media1.tenor.com/images/cd37fa49c983ac905df0016fd5b6a2ee/tenor.gif?itemid=13165216">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shashank01-26&label=Profile%20views&color=0e75b6&style=flat" alt="shashank01-26" /> </p>
 
