@@ -16,3 +16,6 @@ tech stack who keeps on learning new skills with time. Seeking a challenging opp
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shashank01-26&show_icons=true&locale=en" alt="shashank01-26" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shashank01-26&" alt="shashank01-26" /></p>
+
+
+![snake gif](https://github.com/Shashank01-26/Shashank01-26/blob/output/github-contribution-grid-snake.gif)
